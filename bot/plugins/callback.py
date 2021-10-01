@@ -1681,7 +1681,7 @@ async def callback_data(bot, update: CallbackQuery):
     elif query_data == "about": 
         buttons = [[
             InlineKeyboardButton('👤ashaan', url='https://t.me/CINEMAZIPLINKS/6'),
-            InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
+            InlineKeyboardButton('Godzilla👤', url='https://t.me/CINEMAZIPLINKS/7')
         ],[
             InlineKeyboardButton('👤 god 👤', url='https://t.me/CINEMAZIPLINKS/6')
         ],[
